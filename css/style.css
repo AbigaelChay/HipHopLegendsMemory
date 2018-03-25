@@ -4,7 +4,7 @@ img {
 }
 body {
     font-family: sans-serif;
-    background-image: url(/HipHopMemory/images/backgroundimage.jpg);
+    background-image: url(../images/backgroundimage.jpg);
 }
 .hidden {
     display: none;
